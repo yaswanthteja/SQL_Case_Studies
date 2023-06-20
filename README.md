@@ -10,3 +10,8 @@ Link to The [Challenges](https://8weeksqlchallenge.com/getting-started/)
 - [Clique Bait](https://github.com/yaswanthteja/SQL_Dannys_Clique_Bait)
 - [Balanced Tree Clothing Co]()
 - [Fresh Segments](https://github.com/yaswanthteja/Fresh_Segments)
+
+
+
+
+Do give me a 🌟 if you like what you're reading. Thank you! 🙆🏻‍♀️
