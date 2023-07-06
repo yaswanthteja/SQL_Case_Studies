@@ -48,7 +48,7 @@ Danny’s Diner is in need of your assistance to help the restaurant stay afloat
 
 ## 🍕 Case Study #2 - Pizza Runner
 <p align="center">
-  <img width=40% height=40%" src="/IMG/2.png">
+  <img width=40% height=40%" src="/IMG/2.png ">
 
 Danny was scrolling through his Instagram feed when something really caught his eye - “80s Retro Styling and Pizza Is The Future!”
 
@@ -65,7 +65,7 @@ Danny started by recruiting “runners” to deliver fresh pizza from Pizza Runn
 
 ## 🥑 Case Study #3 - Foodie-Fi
 <p align="center">
-  <img width=40% height=40%" src="/IMG/3.png">
+  <img width=40% height=40%" src=" /IMG/3.png ">
 
 Subscription based businesses are super popular and Danny realised that there was a large gap in the market - he wanted to create a new streaming service that only had food related content - something like Netflix but with only cooking shows!
 
@@ -81,7 +81,7 @@ Danny created Foodie-Fi with a data driven mindset and wanted to ensure all futu
 
 ## 🪙 Case Study #4 - Data Bank
 <p align="center">
-  <img width=40% height=40%" src="/IMG/4.png">
+  <img width=40% height=40%" src=" /IMG/4.png ">
 
 There is a new innovation in the financial industry called Neo-Banks: new aged digital only banks without physical branches.
 
@@ -102,7 +102,7 @@ This case study is all about calculating metrics, growth and helping the busines
 ## 🧺 Case Study #5 - Data Mart
 
 <p align="center">
-<img width=40% height=40%" src="/IMG/5.png">
+<img width=40% height=40%" src=" /IMG/5.png ">
 
 This case study actually is based off a real life change in Australia retailers where plastic bags were no longer provided for free - as you can expect, some customers would have changed their shopping behaviour because of this change!
 
@@ -121,7 +121,7 @@ Analysis which is related to certain key events which can have a significant imp
 
 
 <p align="center">
-<img width=40% height=40%" src="/IMG/6.png">
+<img width=40% height=40%" src=" /IMG/6.png ">
 
 This case study is based off my many years working with Digital datasets in consumer banking and retail supermarkets - all of the datasets are designed based off real datasets I’ve come across in challenging problem solving scenarios and the questions reflect similar problems which I worked on.
 
@@ -139,7 +139,7 @@ Campaign analysis is almost everywhere in the data world, especially in marketin
 ## 👔 Case Study #7 - Balanced Tree Clothing Co.
 
 <p align="center">
-<img width=40% height=40%" src="/IMG/7.png">
+<img width=40% height=40%" src=" /IMG/7.png ">
 
 Sales, transactions and product exposure is always going to be a main objective for many data analysts and data scientists when working within a company that sells some type of product - Spoiler alert: nearly all companies will sell products!
 
@@ -161,7 +161,7 @@ Hopefully these questions helped provide some exposure to the type of analysis w
 ## 🍊 Case Study #8 - Fresh Segments
 
 <p align="center">
-<img width=40% height=40%" src="/IMG/8.png">
+<img width=40% height=40%" src=" /IMG/8.png ">
 
 You have probably come across this concept of customer segments or marketing segments in your everyday life, maybe without you even noticing it!
 
