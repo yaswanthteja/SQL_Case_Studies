@@ -56,7 +56,7 @@ Danny was sold on the idea, but he knew that pizza alone was not going to help h
 
 Danny started by recruiting “runners” to deliver fresh pizza from Pizza Runner Headquarters (otherwise known as Danny’s house) and also maxed out his credit card to pay freelance developers to build a mobile app to accept orders from customers.
 
-### View full case study introduction [here](https://8weeksqlchallenge.com/case-study-2/).
+### View the full case study introduction [here](https://8weeksqlchallenge.com/case-study-2/).
 
 
 [![View Data Exploration Folder](https://img.shields.io/badge/View-Solution_Case_Study_2-971901?style=for-the-badge&logo=GITHUB)](https://github.com/yaswanthteja/SQL_Dannys_Pizza_Runner_CaseStudy2-)
@@ -67,13 +67,13 @@ Danny started by recruiting “runners” to deliver fresh pizza from Pizza Runn
 <p align="center">
   <img width=40% height=40%" src=" /IMG/3.png ">
 
-Subscription based businesses are super popular and Danny realised that there was a large gap in the market - he wanted to create a new streaming service that only had food related content - something like Netflix but with only cooking shows!
+Subscription-based businesses are super popular and Danny realized that there was a large gap in the market - he wanted to create a new streaming service that only had food related content - something like Netflix but with only cooking shows!
 
 Danny finds a few smart friends to launch his new startup Foodie-Fi in 2020 and started selling monthly and annual subscriptions, giving their customers unlimited on-demand access to exclusive food videos from around the world!
 
-Danny created Foodie-Fi with a data driven mindset and wanted to ensure all future investment decisions and new features were decided using data. This case study focuses on using subscription style digital data to answer important business questions.
+Danny created Foodie-Fi with a data-driven mindset and wanted to ensure all future investment decisions and new features were decided using data. This case study focuses on using subscription style digital data to answer important business questions.
 
-### View full case study introduction [here](https://8weeksqlchallenge.com/case-study-3/).
+### View the full case study introduction [here](https://8weeksqlchallenge.com/case-study-3/).
 
 [![View Data Exploration Folder](https://img.shields.io/badge/View-Solution_Case_Study_3-971901?style=for-the-badge&logo=GITHUB)](https://github.com/yaswanthteja/SQL_Dannys_Foodiee-Fi_CaseStudy3)
 
@@ -83,17 +83,17 @@ Danny created Foodie-Fi with a data driven mindset and wanted to ensure all futu
 <p align="center">
   <img width=40% height=40%" src=" /IMG/4.png ">
 
-There is a new innovation in the financial industry called Neo-Banks: new aged digital only banks without physical branches.
+There is a new innovation in the financial industry called Neo-Banks: new aged digital-only banks without physical branches.
 
-Danny thought that there should be some sort of intersection between these new age banks, cryptocurrency and the data world…so he decides to launch a new initiative - Data Bank!
+Danny thought that there should be some sort of intersection between these new-age banks, cryptocurrency and the data world…so he decides to launch a new initiative - Data Bank!
 
 ...
 
-The management team at Data Bank want to increase their total customer base - but also need some help tracking just how much data storage their customers will need.
+The management team at Data Bank wants to increase its total customer base - but also needs some help tracking just how much data storage their customers will need.
 
-This case study is all about calculating metrics, growth and helping the business analyse their data in a smart way to better forecast and plan for their future developments!
+This case study is all about calculating metrics, and growth and helping the business analyze their data in a smart way to better forecast and plan for their future developments!
 
-### View full case study introduction [here](https://8weeksqlchallenge.com/case-study-4/).
+### View the full case study introduction [here](https://8weeksqlchallenge.com/case-study-4/).
 
 [![View Data Exploration Folder](https://img.shields.io/badge/View-Solution_Case_Study_4-971901?style=for-the-badge&logo=GITHUB)](https://github.com/yaswanthteja/SQL_Dannys_Data-Bank_CaseStudy4)
 
@@ -104,13 +104,13 @@ This case study is all about calculating metrics, growth and helping the busines
 <p align="center">
 <img width=40% height=40%" src=" /IMG/5.png ">
 
-This case study actually is based off a real life change in Australia retailers where plastic bags were no longer provided for free - as you can expect, some customers would have changed their shopping behaviour because of this change!
+This case study actually is based on a real-life change in Australian retailers where plastic bags were no longer provided for free - as you can expect, some customers would have changed their shopping behaviour because of this change!
 
 --
 
-Analysis which is related to certain key events which can have a significant impact on sales or engagement metrics is always a part of the data analytics menu. Learning how to approach these types of problems is a super valuable lesson and hopefully these ideas can help you next time you’re faced with a tough problem like this in the workplace!
+Analysis which is related to certain key events which can have a significant impact on sales or engagement metrics is always a part of the data analytics menu. Learning how to approach these types of problems is a super valuable lesson and hopefully, these ideas can help you next time you’re faced with a tough problem like this in the workplace!
 
-### View full case study introduction [here](https://8weeksqlchallenge.com/case-study-5/).
+### View the full case study introduction [here](https://8weeksqlchallenge.com/case-study-5/).
 
 [![View Data Exploration Folder](https://img.shields.io/badge/View-Solution_Case_Study_5-971901?style=for-the-badge&logo=GITHUB)](https://github.com/yaswanthteja/Case_Study_5_Data-Mart)
 
