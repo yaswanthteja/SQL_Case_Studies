@@ -48,11 +48,11 @@ Danny’s Diner is in need of your assistance to help the restaurant stay afloat
 
 ## 🍕 Case Study #2 - Pizza Runner
 <p align="center">
-  <img width=40% height=40%" src="/IMG/2.png ">
+  <img width=40% height=40%" src="/IMG/2.png">
 
 Danny was scrolling through his Instagram feed when something really caught his eye - “80s Retro Styling and Pizza Is The Future!”
 
-Danny was sold on the idea, but he knew that pizza alone was not going to help him get seed funding to expand his new Pizza Empire - so he had one more genius idea to combine with it - he was going to Uberize it - and so Pizza Runner was launched!
+Danny was sold on the idea, but he knew that pizza alone would not help him get seed funding to expand his new Pizza Empire - so he had one more genius idea to combine with it - he was going to Uberize it - and so Pizza Runner was launched!
 
 Danny started by recruiting “runners” to deliver fresh pizza from Pizza Runner Headquarters (otherwise known as Danny’s house) and also maxed out his credit card to pay freelance developers to build a mobile app to accept orders from customers.
 
@@ -65,7 +65,7 @@ Danny started by recruiting “runners” to deliver fresh pizza from Pizza Runn
 
 ## 🥑 Case Study #3 - Foodie-Fi
 <p align="center">
-  <img width=40% height=40%" src=" /IMG/3.png ">
+  <img width=40% height=40%" src="/IMG/3.png">
 
 Subscription-based businesses are super popular and Danny realized that there was a large gap in the market - he wanted to create a new streaming service that only had food related content - something like Netflix but with only cooking shows!
 
